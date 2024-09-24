@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|D:\\Project\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|solutionrelative:server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|C:\\Users\\luked\\OneDrive\\Desktop\\Networking\\Project\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.txt",
+              "DocumentMoniker": "C:\\Users\\luked\\OneDrive\\Desktop\\Networking\\Project\\users.txt",
+              "ToolTip": "C:\\Users\\luked\\OneDrive\\Desktop\\Networking\\Project\\users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-24T18:13:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.cpp",
+              "DocumentMoniker": "D:\\Project\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server.cpp",
+              "ToolTip": "D:\\Project\\server\\server.cpp",
+              "RelativeToolTip": "server.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T17:53:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1930479023:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
